@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: white;
+    text-align: center;
+}
+.logo {
+   margin-top:100px;
+}
+
+.text-box {
+    margin-bottom: -0.005%;
+    background-color:#EEEEEE;
+    width:1130px; 
+    margin: auto; 
+    margin-top:-18px;
+
+    
+}
